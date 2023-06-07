@@ -151,7 +151,7 @@ padding:10px;
 background-color:rgb(46, 4, 112) ;
 border: 0;
 border-radius: 0;
-font-weight: bold;
+/* font-weight: bold; */
 }
 .header-top{
     background-color: rgb(46, 4, 112);
